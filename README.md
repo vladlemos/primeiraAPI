@@ -1,3 +1,7 @@
+# PROJETO COM SLIM FRAMEWORK, facilita bem trabalhar com API e banco de dados; agora é ver se é mole ajudar no trampo com MS SQL SERVER.
+
+
+
 # Slim Framework 3 Skeleton Application
 
 Use this skeleton application to quickly setup and start working on a new Slim Framework 3 application. This application uses the latest Slim 3 with the PHP-View template renderer. It also uses the Monolog logger.
